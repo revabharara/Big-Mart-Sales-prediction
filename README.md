@@ -41,9 +41,11 @@ In this section we will:
     * We will be replacing the categorical missing data with the mode of that particular category.
   
 2. *Extract the features*
-    Here we will be encoding the features using label encoding so that the data is easier to process and use. We use the LabelEncoder from sklearn that assigns a unique number to each unique value in the column.
+
+    Here we will be encoding the features using label encoding so that the data is easier to process and use. We use the LabelEncoder from sklearn that assigns a           unique number to each unique value in the column.
     
 3. *Standardize and Normalize the data if needed*
+
     In this step we will be standardising tyhe data so that there are no redunadant as well as values that mean the same thing but under different names (e.g. 'lf', 'low fat', 'Low Fat' all mean the same thing.)
 
 ## 	📊 Data analysis
