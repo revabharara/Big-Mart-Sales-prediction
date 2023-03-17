@@ -2,11 +2,11 @@
 
 The Big Market Sales Prediction project involves analyzing a dataset from Kaggle and developing machine learning models to predict sales in the retail industry. The retail industry is highly competitive, and companies are always looking for ways to increase their revenue and market share. By using machine learning algorithms to predict sales, companies can gain insights into consumer behavior and optimize their business strategies.
 
-# 💡 Need of the model
+# ❓ Need of the model
 
 Predicting future sales accurately can help companies improve their revenue and market share, while also reducing costs associated with inventory management and overstocking. Machine learning models such as the ones used in this project can provide a competitive advantage for companies in the retail industry looking to stay ahead of the competition. 
 
-## 📚 About the Dataset
+## 🚩 About the Dataset
 
 | Column ID  | Column Name | Data type  | Description |
 | ------------- | ------------- |------------- | ------------- |
