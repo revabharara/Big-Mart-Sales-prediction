@@ -68,6 +68,12 @@ In this section I will:
 
 <img width="393" alt="image" src="https://user-images.githubusercontent.com/89579327/225889170-cbe36805-f5eb-4aee-9757-363ff508958a.png">
 
+![image](https://user-images.githubusercontent.com/89579327/225910499-b8cfc68c-38a0-4397-8057-92890cafaf19.png)
+
+![image](https://user-images.githubusercontent.com/89579327/225910534-d851770f-ff75-451e-8b13-b119c9150982.png)
+
+
+
 ## ⛳ Model Selection and Prediction
 
 In this section we will be trying different regression models and see which one gives us the best results in terms of minimizing the error in its prediction.
